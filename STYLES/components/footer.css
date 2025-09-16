@@ -1,0 +1,16 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.footer_title {
+    font-size: var(--size-m);
+    color: var(--other-color);
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing:  0.2em;
+    user-select: none;
+}
